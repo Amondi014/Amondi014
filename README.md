@@ -10,13 +10,10 @@
 - 📚 Passionate about tech, law, and social change
 - 💡 Learning full-stack development and exploring Python, CS50, and Git
 - 🧠 Always curious, always growing
-- 🌍 Dreaming big and working towards my dreams
-- 📚 Avid reader & aspiring writer (inspired by Chimamanda Ngozi Adichie)  
-
+- 📚 Avid reader & aspiring writer 
 
 ---
 
-### 🔧 Tech I'm Exploring
 ### 🔧 Tech I'm Exploring
 
 <p align="left">
