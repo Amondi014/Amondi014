@@ -31,7 +31,10 @@
 </p>
 
 ---
+### 🗓️ What I spent my time on this week
 
+<!--START_SECTION:todoist-->
+<!--END_SECTION:todoist-->
 ### 📈 GitHub Stats
 
 <p align="left">
