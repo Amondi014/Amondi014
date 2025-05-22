@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋🏾, I'm Amondi</h1>
-<h3 align="center"> Law 🏛️ | Full-Stack Dev in progress 💻 | Changemaker 🌍</h3>
+<h3 align="center"> Law 🏛️ | Full-Stack Dev in progress 💻 | #winning 🌍</h3>
 
 
 ---
 
 ### 👩🏾‍🎓 About Me
 
-- 🎓 IB Graduate | Law Student  
+- 🎓 IB Graduate | Student  
 - 📚 Passionate about tech, law, and social change
-- 💡 Learning full-stack development and exploring Python, CS50, and Git
-- 🧠 Always curious, always growing
-- 📚 Avid reader & aspiring writer 
+- 💡 Learning full-stack development and exploring programming languages
+- 📚 Avid reader & aspiring writer
 
 ---
 
@@ -51,6 +50,7 @@
   </a>
 </p>
 
+Curently Reading Dust by Yvonne Adhiambo
 ---
 
 _“The best way to make dreams come true is to wake up.” – Paul Valéry_
