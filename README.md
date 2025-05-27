@@ -27,13 +27,11 @@
   <img src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/CS50-000000?style=for-the-badge&logo=cs50&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+
 </p>
 
 ---
-### 🗓️ What I spent my time on this week
-
-<!--START_SECTION:todoist-->
-<!--END_SECTION:todoist-->
 ### 📈 GitHub Stats
 
 <p align="left">
