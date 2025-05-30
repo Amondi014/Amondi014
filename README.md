@@ -6,9 +6,9 @@
 
 ### 👩🏾‍🎓 About Me
 
-- 🎓 IB Graduate | Student  
-- 📚 Passionate about tech, law, and social change
-- 💡 Learning full-stack development and exploring programming languages
+- 🎓 IB Graduate | Life long learner  
+- 📚 Passionate about learning
+- 💡 Learning full-stack development and exploring other programming languages
 - 📚 Avid reader & aspiring writer
 
 ---
