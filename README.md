@@ -12,7 +12,7 @@
 
 ---
 ### 💡 My Stack So Far:
-<p align="center">
+<p align="left">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  
  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 ### 🔧 Tech I'm Exploring
 
-<p align="center">
+<p align="left">
  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 ### ☕ Let's Connect
 
-<p>
+<p aling="center">
  <a href="mailto:eamondi014@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
@@ -64,7 +64,7 @@
 </a>
 </p>
 
-Curently Reading Dust by Yvonne Adhiambo
+   Curently Reading Dust by Yvonne Adhiambo
 ---
 
 _“The best way to make dreams come true is to wake up.” – Paul Valéry_
