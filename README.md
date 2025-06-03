@@ -11,7 +11,7 @@
 - 📚 Avid reader & aspiring writer 
 
 ---
-### 👩🏾‍🎓 My Stack So Far:
+### 💡 My Stack So Far:
 <p align="center">
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
  
@@ -34,16 +34,13 @@
 
 ### 🔧 Tech I'm Exploring
 
-<p align="left">
+<p align="center">
  
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
- 
-
-
 
 </p>
 
@@ -59,9 +56,12 @@
 ### ☕ Let's Connect
 
 <p>
-  <a href="mailto:eamondi014@gmail.com">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+ <a href="mailto:eamondi014@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+<a href="https://www.linkedin.com/in/edith-amondi-4160622b1/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </p>
 
 Curently Reading Dust by Yvonne Adhiambo
