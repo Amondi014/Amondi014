@@ -7,9 +7,8 @@
 ### 👩🏾‍🎓 About Me
 
 - 🎓 IB Graduate | Life long learner  
-- 📚 Passionate about learning
 - 💡 Learning full-stack development and exploring other programming languages
-- 📚 Avid reader & aspiring writer
+- 📚 Avid reader & aspiring writer 
 
 ---
 
