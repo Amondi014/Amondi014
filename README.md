@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Amondi</h1>
-<h3 align="center"> Law 🏛️ | Full-Stack Dev in progress 💻 | #winning 🌍</h3>
+<h3 align="center"> #winning 🌍</h3>
 
 
 ---
